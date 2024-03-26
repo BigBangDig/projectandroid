@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projectandroid</string>
+
+    <string-array name="daftar_kota">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Tangerang Selatan</item>
+        <item>Bali</item>
+        <item>Palembang</item>
+        <!-- Tambahkan kota lainnya di sini sesuai kebutuhan -->
+    </string-array>
+</resources>

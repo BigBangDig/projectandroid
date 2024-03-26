@@ -1,0 +1,7 @@
+<!-- background_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FFFFFF"/> <!-- Warna latar belakang putih -->
+    <corners android:radius="8dp"/> <!-- Corner dengan sudut 8dp -->
+    <stroke android:color="#CCCCCC" android:width="1dp"/> <!-- Garis pinggir dengan warna abu-abu -->
+</shape>
